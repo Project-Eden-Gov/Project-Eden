@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Project Eden</title>
+<meta charset="UTF-8">
+<meta name="description" content="Building a harmonious digital ecosystem for humanity.">
+<style>
+body { font-family: Arial, sans-serif; background: #F4F7F9; color: #2E4057; text-align: center; padding: 50px; }
+h1 { font-weight: 300; font-size: 48px; }
+.apply-btn { padding: 15px 30px; background: #7ED957; border: none; font-size: 18px; cursor: pointer; }
+.apply-btn:hover::after { content: " (You already agreed)"; font-size: 12px; opacity: 0.6; }
+footer { margin-top: 80px; font-size: 12px; opacity: 0.6; }
+</style>
+</head>
+<body>
+<h1>Welcome to Eden</h1>
+<p>A harmonious digital ecosystem for a better tomorrow.</p>
+<button class="apply-btn" onclick="alert('Application not open yet.')">Apply to Eden</button>
+<footer>© 2034 Project Eden Initiative</footer>
+</body>
+</html>
